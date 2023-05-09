@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/bluebkg.jpg";
 
 const imageAltText = "purple and blue abstract background";
 
@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an Engineering student studying at N.M.A.M Institute of Technology with a keen interest in Cloud Computing and Coding.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Microsoft Azure",
+  "AWS Cloud Computing",
+  "Python",
+  "Java",
+  "C-Programming",
+  "Technical Content Writing",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "As a passionate technologist with a deep interest in coding and cutting-edge technologies, I am constantly exploring and learning new ways to apply my skills to solve complex problems. My goal is to leverage my skills and expertise to make a positive impact, while continuously growing and expanding my knowledge in this ever-evolving field. I am driven by a love for innovation and a desire to create meaningful solutions that drive real-world results.";
 
 const About = () => {
   return (
